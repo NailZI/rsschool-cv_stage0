@@ -12,7 +12,8 @@
 * Python
 
 ## Courses:
-    [Python](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)-разработка для начинающих
+
+[Python](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)-разработка для начинающих
 
 
 ## Code Example
