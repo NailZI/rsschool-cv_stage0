@@ -18,6 +18,7 @@
 ## Courses:
 
 [Python-development for beginners](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)
+
 [The basics of Python programming](https://letpy.com/certificate/7033ccfa-6b62-4e34-b4dc-2b8783dcc48c/en/)
 
 
