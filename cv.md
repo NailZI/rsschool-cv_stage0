@@ -5,6 +5,8 @@
 * E-mail: dubletrain76@gmail.com
 
 ## About Me
+    I'm trying to learn front-end development.
+    I make small applications in python
 
 ## Skills
 * HTML
@@ -15,17 +17,17 @@
 
 ## Courses:
 
-[Python-разработка для начинающих](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)
+[Python-development for beginners](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)
 [The basics of Python programming](https://letpy.com/certificate/7033ccfa-6b62-4e34-b4dc-2b8783dcc48c/en/)
 
 
 ## Code Example
+    ping check on Python
 
 '''
 
     import time
     from pythonping import ping
-    from logs import logger
 
 
     def response(hostname):
@@ -34,7 +36,6 @@
             time.sleep(1)
         except Exception as err:
             m = f'ping IP {hostname} не доступен!\n' + str(err)
-            #logger('no_user', m)
         return m
 
 
@@ -46,6 +47,6 @@
 '''
 
 ## Language
-* English A0
-* Russian -Native
+* English - Beginner
+* Russian - Native
 
