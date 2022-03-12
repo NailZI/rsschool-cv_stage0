@@ -22,6 +22,7 @@
 ## Code Example
 
 '''
+
     import time
     from pythonping import ping
     from logs import logger
