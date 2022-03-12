@@ -12,7 +12,7 @@
 * Python
 
 ## Courses:
-    [Python-разработка для начинающих] (https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)
+    [Python](https://netology.ru/backend/api/user/programs/25521/pdf_certificate/)-разработка для начинающих
 
 
 ## Code Example
